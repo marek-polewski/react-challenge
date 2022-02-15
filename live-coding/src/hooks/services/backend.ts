@@ -61,7 +61,7 @@ export const getProductList = () => {
             // Api request
             const Api = Request({
                 method: "get",
-                url: `/products`,
+                url: `https://nvy34v633k.execute-api.ap-southeast-1.amazonaws.com/prod/products`,
                 params: payload,
             })
                 .then(successResolver)
