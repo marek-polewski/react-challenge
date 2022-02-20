@@ -61,7 +61,7 @@ export const getProductList = () => {
             // Api request
             const Api = Request({
                 method: "get",
-                url: `https://07a365kzol.execute-api.ap-southeast-1.amazonaws.com/prod/products`,
+                url: `https://07a365kzol.execute-api.eu-central-1.amazonaws.com/prod/products`,
                 params: payload,
             })
                 .then(successResolver)
