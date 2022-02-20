@@ -2,7 +2,7 @@
 
 ### API
 
-- `https`: <https://nvy34v633k.execute-api.ap-southeast-1.amazonaws.com/prod>
+- `https`: <https://07a365kzol.execute-api.eu-central-1.amazonaws.com/prod>
 
 ### Figma for UI Design
 
@@ -44,8 +44,8 @@ $ yarn build
 
 ### Services
 
-- Get Product: <https://nvy34v633k.execute-api.ap-southeast-1.amazonaws.com/prod/products>
-- Submit Payment: <https://nvy34v633k.execute-api.ap-southeast-1.amazonaws.com/prod/pay>
+- Get Product: <https://07a365kzol.execute-api.eu-central-1.amazonaws.com/prod/products>
+- Submit Payment: <https://07a365kzol.execute-api.eu-central-1.amazonaws.com/prod/pay>
 
 #### Example of request
 
